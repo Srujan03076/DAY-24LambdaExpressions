@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.exe
+C:\Users\Admin\source\repos\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.deps.json
+C:\Users\Admin\source\repos\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.runtimeconfig.json
+C:\Users\Admin\source\repos\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.dll
+C:\Users\Admin\source\repos\LambdaExp\bin\Debug\netcoreapp3.1\LambdaExp.pdb
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.dll
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.pdb
+C:\Users\Admin\source\repos\LambdaExp\obj\Debug\netcoreapp3.1\LambdaExp.genruntimeconfig.cache
